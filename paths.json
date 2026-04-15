@@ -1,6 +1,7 @@
 {
   "mappings": [
-    "/content/aem-edsue/:/"
+    "/content/aem-edsue/:/",
+    "/content/aem-edsue/redirects:/redirects.json"
   ],
   "includes": [
     "/content/aem-edsue/"
