@@ -219,6 +219,23 @@
     "id": "teaser",
     "fields": [
       {
+        "component": "select",
+        "name": "classes",
+        "label": "Teaser options",
+        "value": "",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Default",
+            "value": ""
+          },
+          {
+            "name": "Side-by-side",
+            "value": "side-by-side"
+          }
+        ]
+      },
+      {
         "component": "reference",
         "valueType": "string",
         "name": "image",
