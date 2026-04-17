@@ -221,13 +221,14 @@
       {
         "component": "select",
         "name": "classes",
-        "label": "Teaser options",
         "value": "",
+        "label": "Teaser options",
+        "description": "",
         "valueType": "string",
         "options": [
           {
             "name": "Default",
-            "value": ""
+            "value": " "
           },
           {
             "name": "Side-by-side",
